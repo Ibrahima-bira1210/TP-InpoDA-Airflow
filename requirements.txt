@@ -1,0 +1,7 @@
+awscli
+requests
+beautifulsoup4
+pendulum
+apache-airflow
+tweepy
+pandas
